@@ -13,7 +13,7 @@ I'm doing this for a number of reasons
 
 All credit goes to [Daniel Holden](https://github.com/orangeduck)! Thank you so, so much, Daniel.
 
-I'll add myself to this section if contribute something original.
+I'll add myself to this section if I contribute something original.
 
 # License
 
